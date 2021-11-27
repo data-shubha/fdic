@@ -1,0 +1,482 @@
+ECONOMIC INDICATORS,Q2-21,Q1-21,Q2-20,2020,2019,Category,state_alias,state_name
+Past-Due and Nonaccrual Loans / Total Loans,0.80,1.00,1.00,1.11,1.63,Asset Quality,al,Alabama
+Noncurrent Loans / Total Loans,0.43,0.44,0.49,0.48,0.66,Asset Quality,al,Alabama
+Loan and Lease Allowance / Total Loans,1.33,1.34,1.23,1.31,1.23,Asset Quality,al,Alabama
+Loan and Lease Allowance / Noncurrent Loans,2.94,2.92,2.17,2.27,1.80,Asset Quality,al,Alabama
+Net Loan Losses / Total Loans,0.02,0.00,0.04,0.07,0.12,Asset Quality,al,Alabama
+Return on Assets,1.03,0.97,0.98,0.93,1.07,Earnings,al,Alabama
+Net Interest Margin,3.28,3.21,3.70,3.56,3.86,Earnings,al,Alabama
+Yield on Earning Assets,3.69,3.65,4.37,4.18,4.71,Earnings,al,Alabama
+Cost of Funding Earning Assets,0.34,0.37,0.68,0.58,0.77,Earnings,al,Alabama
+Provisions to Avg. Assets,0.03,0.00,0.13,0.13,0.11,Earnings,al,Alabama
+Overhead to Avg. Assets,2.45,2.47,2.76,2.69,2.92,Earnings,al,Alabama
+Net Loans to Assets,50.27,50.60,57.94,53.96,60.67,Liquidity,al,Alabama
+Long-term Assets to Assets,34.00,32.95,28.57,30.72,28.99,Liquidity,al,Alabama
+Past-Due and Nonaccrual Loans / Total Loans,0.88,0.95,1.15,1.05,1.55,Asset Quality,ar,Arkansas
+Noncurrent Loans / Total Loans,0.49,0.55,0.68,0.60,0.81,Asset Quality,ar,Arkansas
+Loan and Lease Allowance / Total Loans,1.39,1.44,1.34,1.40,1.30,Asset Quality,ar,Arkansas
+Loan and Lease Allowance / Noncurrent Loans,2.71,2.27,1.67,2.12,1.60,Asset Quality,ar,Arkansas
+Net Loan Losses / Total Loans,0.01,0.01,0.06,0.10,0.11,Asset Quality,ar,Arkansas
+Return on Assets,1.39,1.28,1.11,1.16,1.08,Earnings,ar,Arkansas
+Net Interest Margin,3.60,3.52,3.82,3.78,3.97,Earnings,ar,Arkansas
+Yield on Earning Assets,4.13,4.13,4.77,4.57,5.01,Earnings,ar,Arkansas
+Cost of Funding Earning Assets,0.49,0.51,0.87,0.76,1.01,Earnings,ar,Arkansas
+Provisions to Avg. Assets,0.08,0.07,0.19,0.21,0.13,Earnings,ar,Arkansas
+Overhead to Avg. Assets,2.54,2.57,2.71,2.67,2.89,Earnings,ar,Arkansas
+Net Loans to Assets,66.59,65.12,68.59,66.74,70.68,Liquidity,ar,Arkansas
+Long-term Assets to Assets,23.19,22.25,18.56,20.91,18.27,Liquidity,ar,Arkansas
+Past-Due and Nonaccrual Loans / Total Loans,0.42,0.31,0.51,0.43,0.96,Asset Quality,az,Arizona
+Noncurrent Loans / Total Loans,0.08,0.12,0.33,0.32,0.31,Asset Quality,az,Arizona
+Loan and Lease Allowance / Total Loans,1.09,1.14,1.08,1.16,1.12,Asset Quality,az,Arizona
+Loan and Lease Allowance / Noncurrent Loans,3.96,3.44,2.37,2.59,2.86,Asset Quality,az,Arizona
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.01,Asset Quality,az,Arizona
+Return on Assets,1.26,1.13,1.24,1.22,1.03,Earnings,az,Arizona
+Net Interest Margin,3.44,3.42,4.04,3.69,4.37,Earnings,az,Arizona
+Yield on Earning Assets,3.60,3.60,4.37,4.11,4.88,Earnings,az,Arizona
+Cost of Funding Earning Assets,0.19,0.19,0.51,0.40,0.75,Earnings,az,Arizona
+Provisions to Avg. Assets,0.03,0.03,0.11,0.18,0.06,Earnings,az,Arizona
+Overhead to Avg. Assets,2.70,2.61,3.16,3.05,3.51,Earnings,az,Arizona
+Net Loans to Assets,62.04,61.85,65.94,64.43,67.34,Liquidity,az,Arizona
+Long-term Assets to Assets,36.01,30.27,27.87,33.02,33.40,Liquidity,az,Arizona
+Past-Due and Nonaccrual Loans / Total Loans,0.52,0.66,0.75,0.49,0.73,Asset Quality,co,Colorado
+Noncurrent Loans / Total Loans,0.26,0.22,0.25,0.19,0.31,Asset Quality,co,Colorado
+Loan and Lease Allowance / Total Loans,1.39,1.36,1.27,1.42,1.29,Asset Quality,co,Colorado
+Loan and Lease Allowance / Noncurrent Loans,3.09,3.34,2.32,3.09,2.31,Asset Quality,co,Colorado
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.02,Asset Quality,co,Colorado
+Return on Assets,1.26,1.26,1.18,1.11,1.15,Earnings,co,Colorado
+Net Interest Margin,3.60,3.53,3.94,3.81,4.14,Earnings,co,Colorado
+Yield on Earning Assets,3.83,3.87,4.41,4.19,4.76,Earnings,co,Colorado
+Cost of Funding Earning Assets,0.24,0.26,0.47,0.40,0.62,Earnings,co,Colorado
+Provisions to Avg. Assets,0.00,0.00,0.18,0.16,0.05,Earnings,co,Colorado
+Overhead to Avg. Assets,2.53,2.55,2.83,2.77,2.97,Earnings,co,Colorado
+Net Loans to Assets,57.28,58.69,62.88,59.12,64.91,Liquidity,co,Colorado
+Long-term Assets to Assets,30.20,28.98,25.49,27.65,24.38,Liquidity,co,Colorado
+Past-Due and Nonaccrual Loans / Total Loans,0.82,0.93,1.15,1.20,1.14,Asset Quality,ct,Connecticut
+Noncurrent Loans / Total Loans,0.59,0.71,0.76,0.76,0.80,Asset Quality,ct,Connecticut
+Loan and Lease Allowance / Total Loans,1.13,1.11,0.98,1.11,0.92,Asset Quality,ct,Connecticut
+Loan and Lease Allowance / Noncurrent Loans,1.73,1.55,1.35,1.32,1.16,Asset Quality,ct,Connecticut
+Net Loan Losses / Total Loans,0.01,0.01,0.02,0.04,0.04,Asset Quality,ct,Connecticut
+Return on Assets,0.89,0.83,0.27,0.58,0.78,Earnings,ct,Connecticut
+Net Interest Margin,2.98,3.03,3.03,3.06,3.21,Earnings,ct,Connecticut
+Yield on Earning Assets,3.26,3.31,3.76,3.64,4.13,Earnings,ct,Connecticut
+Cost of Funding Earning Assets,0.30,0.32,0.68,0.56,0.91,Earnings,ct,Connecticut
+Provisions to Avg. Assets,0.04,0.06,0.20,0.19,0.05,Earnings,ct,Connecticut
+Overhead to Avg. Assets,2.39,2.41,2.71,2.63,2.84,Earnings,ct,Connecticut
+Net Loans to Assets,66.32,69.50,74.86,70.91,75.28,Liquidity,ct,Connecticut
+Long-term Assets to Assets,46.99,44.76,42.43,44.18,47.06,Liquidity,ct,Connecticut
+Past-Due and Nonaccrual Loans / Total Loans,0.29,0.53,0.64,0.70,0.71,Asset Quality,fl,Florida
+Noncurrent Loans / Total Loans,0.19,0.23,0.27,0.26,0.29,Asset Quality,fl,Florida
+Loan and Lease Allowance / Total Loans,1.25,1.25,1.19,1.30,1.12,Asset Quality,fl,Florida
+Loan and Lease Allowance / Noncurrent Loans,3.48,2.80,2.15,2.61,2.77,Asset Quality,fl,Florida
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.00,Asset Quality,fl,Florida
+Return on Assets,0.91,0.95,0.70,0.75,0.99,Earnings,fl,Florida
+Net Interest Margin,3.02,3.09,3.38,3.29,3.67,Earnings,fl,Florida
+Yield on Earning Assets,3.39,3.43,4.06,3.88,4.58,Earnings,fl,Florida
+Cost of Funding Earning Assets,0.26,0.30,0.56,0.48,0.77,Earnings,fl,Florida
+Provisions to Avg. Assets,0.01,0.00,0.22,0.19,0.03,Earnings,fl,Florida
+Overhead to Avg. Assets,2.33,2.28,2.66,2.60,2.94,Earnings,fl,Florida
+Net Loans to Assets,58.04,60.71,67.68,64.89,69.06,Liquidity,fl,Florida
+Long-term Assets to Assets,34.44,33.41,30.52,33.79,32.20,Liquidity,fl,Florida
+Past-Due and Nonaccrual Loans / Total Loans,0.95,1.01,1.17,1.15,1.88,Asset Quality,ga,Georgia
+Noncurrent Loans / Total Loans,0.45,0.50,0.74,0.59,0.91,Asset Quality,ga,Georgia
+Loan and Lease Allowance / Total Loans,1.42,1.42,1.27,1.42,1.35,Asset Quality,ga,Georgia
+Loan and Lease Allowance / Noncurrent Loans,2.70,2.29,1.52,2.20,1.39,Asset Quality,ga,Georgia
+Net Loan Losses / Total Loans,0.00,0.00,0.04,0.05,0.07,Asset Quality,ga,Georgia
+Return on Assets,1.11,1.07,0.94,0.96,1.20,Earnings,ga,Georgia
+Net Interest Margin,3.56,3.51,3.92,3.85,4.22,Earnings,ga,Georgia
+Yield on Earning Assets,3.93,3.88,4.69,4.42,4.99,Earnings,ga,Georgia
+Cost of Funding Earning Assets,0.31,0.34,0.60,0.50,0.74,Earnings,ga,Georgia
+Provisions to Avg. Assets,0.05,0.05,0.19,0.20,0.09,Earnings,ga,Georgia
+Overhead to Avg. Assets,2.54,2.58,2.96,2.89,3.10,Earnings,ga,Georgia
+Net Loans to Assets,58.21,58.47,64.72,61.03,64.88,Liquidity,ga,Georgia
+Long-term Assets to Assets,27.07,25.24,22.70,24.24,23.48,Liquidity,ga,Georgia
+Past-Due and Nonaccrual Loans / Total Loans,0.67,0.87,1.21,0.91,1.00,Asset Quality,ia,Iowa
+Noncurrent Loans / Total Loans,0.28,0.30,0.48,0.33,0.39,Asset Quality,ia,Iowa
+Loan and Lease Allowance / Total Loans,1.35,1.34,1.27,1.35,1.25,Asset Quality,ia,Iowa
+Loan and Lease Allowance / Noncurrent Loans,3.19,2.75,1.92,2.51,2.16,Asset Quality,ia,Iowa
+Net Loan Losses / Total Loans,0.00,0.00,0.01,0.02,0.03,Asset Quality,ia,Iowa
+Return on Assets,1.38,1.36,1.16,1.10,1.21,Earnings,ia,Iowa
+Net Interest Margin,3.29,3.16,3.42,3.30,3.49,Earnings,ia,Iowa
+Yield on Earning Assets,3.71,3.59,4.25,4.00,4.47,Earnings,ia,Iowa
+Cost of Funding Earning Assets,0.39,0.41,0.77,0.65,0.95,Earnings,ia,Iowa
+Provisions to Avg. Assets,0.02,0.00,0.11,0.12,0.06,Earnings,ia,Iowa
+Overhead to Avg. Assets,2.01,2.00,2.19,2.20,2.28,Earnings,ia,Iowa
+Net Loans to Assets,57.18,58.42,66.44,60.58,67.94,Liquidity,ia,Iowa
+Long-term Assets to Assets,30.43,28.45,23.45,25.79,23.18,Liquidity,ia,Iowa
+Past-Due and Nonaccrual Loans / Total Loans,0.41,0.52,0.33,0.29,0.66,Asset Quality,id,Idaho
+Noncurrent Loans / Total Loans,0.13,0.14,0.24,0.19,0.31,Asset Quality,id,Idaho
+Loan and Lease Allowance / Total Loans,1.57,1.52,1.22,1.49,1.36,Asset Quality,id,Idaho
+Loan and Lease Allowance / Noncurrent Loans,5.82,4.51,4.77,4.10,5.11,Asset Quality,id,Idaho
+Net Loan Losses / Total Loans,0.00,0.00,0.01,0.00,0.00,Asset Quality,id,Idaho
+Return on Assets,1.13,1.18,0.91,1.04,1.29,Earnings,id,Idaho
+Net Interest Margin,3.50,3.62,4.14,4.06,4.62,Earnings,id,Idaho
+Yield on Earning Assets,3.62,3.80,4.61,4.31,5.06,Earnings,id,Idaho
+Cost of Funding Earning Assets,0.17,0.19,0.32,0.27,0.32,Earnings,id,Idaho
+Provisions to Avg. Assets,0.00,0.00,0.11,0.10,0.10,Earnings,id,Idaho
+Overhead to Avg. Assets,2.38,2.36,2.93,2.77,3.17,Earnings,id,Idaho
+Net Loans to Assets,54.86,57.98,68.03,60.33,64.64,Liquidity,id,Idaho
+Long-term Assets to Assets,28.07,25.62,19.91,23.22,21.82,Liquidity,id,Idaho
+Past-Due and Nonaccrual Loans / Total Loans,1.04,1.18,1.46,1.33,1.46,Asset Quality,il,Illinois
+Noncurrent Loans / Total Loans,0.54,0.61,0.79,0.71,0.71,Asset Quality,il,Illinois
+Loan and Lease Allowance / Total Loans,1.19,1.20,1.11,1.17,1.08,Asset Quality,il,Illinois
+Loan and Lease Allowance / Noncurrent Loans,1.63,1.58,1.26,1.45,1.30,Asset Quality,il,Illinois
+Net Loan Losses / Total Loans,0.00,0.00,0.01,0.04,0.05,Asset Quality,il,Illinois
+Return on Assets,1.02,0.99,0.90,0.87,0.96,Earnings,il,Illinois
+Net Interest Margin,2.96,2.94,3.27,3.15,3.49,Earnings,il,Illinois
+Yield on Earning Assets,3.30,3.33,3.95,3.77,4.28,Earnings,il,Illinois
+Cost of Funding Earning Assets,0.35,0.37,0.67,0.56,0.77,Earnings,il,Illinois
+Provisions to Avg. Assets,0.03,0.02,0.12,0.13,0.07,Earnings,il,Illinois
+Overhead to Avg. Assets,2.22,2.25,2.47,2.43,2.62,Earnings,il,Illinois
+Net Loans to Assets,56.16,56.35,62.22,59.89,65.22,Liquidity,il,Illinois
+Long-term Assets to Assets,29.76,28.00,23.72,26.06,22.70,Liquidity,il,Illinois
+Past-Due and Nonaccrual Loans / Total Loans,0.92,0.99,1.16,1.04,1.27,Asset Quality,in,Indiana
+Noncurrent Loans / Total Loans,0.51,0.55,0.62,0.57,0.55,Asset Quality,in,Indiana
+Loan and Lease Allowance / Total Loans,1.36,1.34,1.21,1.32,1.15,Asset Quality,in,Indiana
+Loan and Lease Allowance / Noncurrent Loans,2.96,2.55,1.98,2.26,2.02,Asset Quality,in,Indiana
+Net Loan Losses / Total Loans,0.00,0.00,0.02,0.02,0.06,Asset Quality,in,Indiana
+Return on Assets,1.12,1.15,1.00,1.06,1.02,Earnings,in,Indiana
+Net Interest Margin,3.20,3.20,3.52,3.50,3.71,Earnings,in,Indiana
+Yield on Earning Assets,3.50,3.56,4.18,4.03,4.59,Earnings,in,Indiana
+Cost of Funding Earning Assets,0.32,0.33,0.63,0.52,0.82,Earnings,in,Indiana
+Provisions to Avg. Assets,0.03,0.05,0.10,0.13,0.06,Earnings,in,Indiana
+Overhead to Avg. Assets,2.53,2.49,2.75,2.68,2.91,Earnings,in,Indiana
+Net Loans to Assets,58.23,59.87,66.16,63.77,69.87,Liquidity,in,Indiana
+Long-term Assets to Assets,45.80,43.20,38.52,42.00,39.10,Liquidity,in,Indiana
+Past-Due and Nonaccrual Loans / Total Loans,0.73,0.92,1.16,0.96,1.12,Asset Quality,ks,Kansas
+Noncurrent Loans / Total Loans,0.32,0.39,0.46,0.37,0.45,Asset Quality,ks,Kansas
+Loan and Lease Allowance / Total Loans,1.48,1.47,1.37,1.44,1.38,Asset Quality,ks,Kansas
+Loan and Lease Allowance / Noncurrent Loans,3.10,2.33,1.97,2.64,1.80,Asset Quality,ks,Kansas
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.02,0.04,Asset Quality,ks,Kansas
+Return on Assets,1.21,1.16,1.08,1.02,1.11,Earnings,ks,Kansas
+Net Interest Margin,3.34,3.28,3.60,3.51,3.73,Earnings,ks,Kansas
+Yield on Earning Assets,3.74,3.64,4.31,4.08,4.57,Earnings,ks,Kansas
+Cost of Funding Earning Assets,0.35,0.37,0.64,0.55,0.76,Earnings,ks,Kansas
+Provisions to Avg. Assets,0.00,0.00,0.10,0.10,0.07,Earnings,ks,Kansas
+Overhead to Avg. Assets,2.36,2.39,2.59,2.56,2.75,Earnings,ks,Kansas
+Net Loans to Assets,52.54,53.27,59.79,56.81,63.18,Liquidity,ks,Kansas
+Long-term Assets to Assets,36.59,33.46,27.36,32.24,27.49,Liquidity,ks,Kansas
+Past-Due and Nonaccrual Loans / Total Loans,1.06,1.07,1.24,1.22,1.58,Asset Quality,ky,Kentucky
+Noncurrent Loans / Total Loans,0.49,0.53,0.64,0.57,0.70,Asset Quality,ky,Kentucky
+Loan and Lease Allowance / Total Loans,1.26,1.24,1.17,1.25,1.11,Asset Quality,ky,Kentucky
+Loan and Lease Allowance / Noncurrent Loans,2.08,2.06,1.52,1.72,1.34,Asset Quality,ky,Kentucky
+Net Loan Losses / Total Loans,0.00,0.00,0.02,0.03,0.07,Asset Quality,ky,Kentucky
+Return on Assets,1.12,1.12,1.02,1.02,1.08,Earnings,ky,Kentucky
+Net Interest Margin,3.39,3.37,3.71,3.60,3.86,Earnings,ky,Kentucky
+Yield on Earning Assets,3.86,3.83,4.43,4.28,4.66,Earnings,ky,Kentucky
+Cost of Funding Earning Assets,0.40,0.42,0.73,0.65,0.84,Earnings,ky,Kentucky
+Provisions to Avg. Assets,0.04,0.04,0.12,0.11,0.07,Earnings,ky,Kentucky
+Overhead to Avg. Assets,2.56,2.56,2.84,2.84,2.98,Earnings,ky,Kentucky
+Net Loans to Assets,60.00,60.30,66.09,63.29,68.96,Liquidity,ky,Kentucky
+Long-term Assets to Assets,48.50,44.93,39.91,42.76,36.33,Liquidity,ky,Kentucky
+Past-Due and Nonaccrual Loans / Total Loans,1.52,1.88,1.96,2.06,2.30,Asset Quality,la,Louisiana
+Noncurrent Loans / Total Loans,0.86,1.01,1.27,1.12,1.21,Asset Quality,la,Louisiana
+Loan and Lease Allowance / Total Loans,1.20,1.20,1.14,1.22,1.06,Asset Quality,la,Louisiana
+Loan and Lease Allowance / Noncurrent Loans,1.72,1.36,1.00,1.13,0.95,Asset Quality,la,Louisiana
+Net Loan Losses / Total Loans,0.01,0.01,0.03,0.09,0.09,Asset Quality,la,Louisiana
+Return on Assets,1.06,1.07,0.85,0.94,1.11,Earnings,la,Louisiana
+Net Interest Margin,3.51,3.49,3.98,3.80,4.25,Earnings,la,Louisiana
+Yield on Earning Assets,3.94,3.98,4.63,4.43,4.98,Earnings,la,Louisiana
+Cost of Funding Earning Assets,0.35,0.38,0.67,0.57,0.80,Earnings,la,Louisiana
+Provisions to Avg. Assets,0.05,0.06,0.19,0.21,0.11,Earnings,la,Louisiana
+Overhead to Avg. Assets,2.67,2.67,2.91,2.90,3.09,Earnings,la,Louisiana
+Net Loans to Assets,60.94,61.35,68.22,62.58,70.02,Liquidity,la,Louisiana
+Long-term Assets to Assets,19.21,18.99,15.97,17.25,15.79,Liquidity,la,Louisiana
+Past-Due and Nonaccrual Loans / Total Loans,0.51,0.56,0.62,0.68,0.70,Asset Quality,ma,Massachusetts
+Noncurrent Loans / Total Loans,0.40,0.44,0.43,0.47,0.43,Asset Quality,ma,Massachusetts
+Loan and Lease Allowance / Total Loans,1.01,1.02,0.91,1.00,0.83,Asset Quality,ma,Massachusetts
+Loan and Lease Allowance / Noncurrent Loans,2.35,2.17,1.94,2.02,1.97,Asset Quality,ma,Massachusetts
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.01,Asset Quality,ma,Massachusetts
+Return on Assets,0.78,0.77,0.49,0.63,0.70,Earnings,ma,Massachusetts
+Net Interest Margin,3.01,3.01,3.04,3.05,3.16,Earnings,ma,Massachusetts
+Yield on Earning Assets,3.37,3.40,3.91,3.75,4.26,Earnings,ma,Massachusetts
+Cost of Funding Earning Assets,0.36,0.39,0.82,0.69,1.05,Earnings,ma,Massachusetts
+Provisions to Avg. Assets,0.02,0.02,0.15,0.15,0.04,Earnings,ma,Massachusetts
+Overhead to Avg. Assets,2.37,2.36,2.61,2.56,2.68,Earnings,ma,Massachusetts
+Net Loans to Assets,69.84,71.17,76.18,73.90,78.28,Liquidity,ma,Massachusetts
+Long-term Assets to Assets,49.86,47.69,46.88,47.61,48.88,Liquidity,ma,Massachusetts
+Past-Due and Nonaccrual Loans / Total Loans,1.13,1.10,1.10,1.44,1.43,Asset Quality,md,"Maryland and Washington, DC"
+Noncurrent Loans / Total Loans,0.90,0.93,0.90,1.02,0.71,Asset Quality,md,"Maryland and Washington, DC"
+Loan and Lease Allowance / Total Loans,1.12,1.13,1.03,1.14,0.95,Asset Quality,md,"Maryland and Washington, DC"
+Loan and Lease Allowance / Noncurrent Loans,1.33,1.42,1.17,1.07,1.09,Asset Quality,md,"Maryland and Washington, DC"
+Net Loan Losses / Total Loans,0.00,0.00,0.02,0.02,0.03,Asset Quality,md,"Maryland and Washington, DC"
+Return on Assets,0.94,0.91,0.56,0.82,0.84,Earnings,md,"Maryland and Washington, DC"
+Net Interest Margin,3.12,3.17,3.43,3.42,3.70,Earnings,md,"Maryland and Washington, DC"
+Yield on Earning Assets,3.59,3.56,4.11,3.98,4.56,Earnings,md,"Maryland and Washington, DC"
+Cost of Funding Earning Assets,0.36,0.39,0.78,0.64,0.93,Earnings,md,"Maryland and Washington, DC"
+Provisions to Avg. Assets,0.00,0.00,0.24,0.17,0.05,Earnings,md,"Maryland and Washington, DC"
+Overhead to Avg. Assets,2.35,2.33,2.63,2.61,2.79,Earnings,md,"Maryland and Washington, DC"
+Net Loans to Assets,65.36,67.57,74.38,70.15,74.37,Liquidity,md,"Maryland and Washington, DC"
+Long-term Assets to Assets,35.81,33.19,30.09,34.89,33.10,Liquidity,md,"Maryland and Washington, DC"
+Past-Due and Nonaccrual Loans / Total Loans,0.68,0.72,0.97,0.93,1.33,Asset Quality,me,Maine
+Noncurrent Loans / Total Loans,0.56,0.46,0.63,0.54,0.85,Asset Quality,me,Maine
+Loan and Lease Allowance / Total Loans,1.07,1.09,0.97,1.09,0.90,Asset Quality,me,Maine
+Loan and Lease Allowance / Noncurrent Loans,1.62,1.87,1.31,1.66,1.24,Asset Quality,me,Maine
+Net Loan Losses / Total Loans,0.00,0.00,0.02,0.04,0.01,Asset Quality,me,Maine
+Return on Assets,0.92,0.91,0.63,0.76,0.93,Earnings,me,Maine
+Net Interest Margin,3.39,3.45,3.34,3.41,3.42,Earnings,me,Maine
+Yield on Earning Assets,3.63,3.67,4.18,4.10,4.40,Earnings,me,Maine
+Cost of Funding Earning Assets,0.34,0.36,0.78,0.66,1.03,Earnings,me,Maine
+Provisions to Avg. Assets,0.04,0.06,0.19,0.17,0.06,Earnings,me,Maine
+Overhead to Avg. Assets,2.56,2.66,2.69,2.74,2.81,Earnings,me,Maine
+Net Loans to Assets,68.86,69.83,78.37,74.71,81.68,Liquidity,me,Maine
+Long-term Assets to Assets,55.05,52.70,50.43,53.54,52.12,Liquidity,me,Maine
+Past-Due and Nonaccrual Loans / Total Loans,0.88,0.91,1.06,1.03,1.24,Asset Quality,mi,Michigan
+Noncurrent Loans / Total Loans,0.44,0.54,0.63,0.60,0.63,Asset Quality,mi,Michigan
+Loan and Lease Allowance / Total Loans,1.35,1.31,1.10,1.29,1.08,Asset Quality,mi,Michigan
+Loan and Lease Allowance / Noncurrent Loans,2.88,2.02,1.55,1.88,1.39,Asset Quality,mi,Michigan
+Net Loan Losses / Total Loans,-0.01,0.00,0.00,0.02,0.02,Asset Quality,mi,Michigan
+Return on Assets,1.03,1.08,0.93,0.96,1.03,Earnings,mi,Michigan
+Net Interest Margin,3.26,3.29,3.60,3.53,3.91,Earnings,mi,Michigan
+Yield on Earning Assets,3.49,3.55,4.19,3.97,4.57,Earnings,mi,Michigan
+Cost of Funding Earning Assets,0.26,0.27,0.48,0.42,0.60,Earnings,mi,Michigan
+Provisions to Avg. Assets,0.03,0.04,0.17,0.23,0.06,Earnings,mi,Michigan
+Overhead to Avg. Assets,2.51,2.52,2.95,2.84,3.09,Earnings,mi,Michigan
+Net Loans to Assets,56.80,58.57,67.27,62.02,69.28,Liquidity,mi,Michigan
+Long-term Assets to Assets,24.45,20.41,18.62,20.17,19.73,Liquidity,mi,Michigan
+Past-Due and Nonaccrual Loans / Total Loans,0.58,0.68,0.96,0.77,1.11,Asset Quality,mn,Minnesota
+Noncurrent Loans / Total Loans,0.28,0.30,0.42,0.29,0.49,Asset Quality,mn,Minnesota
+Loan and Lease Allowance / Total Loans,1.32,1.32,1.22,1.30,1.25,Asset Quality,mn,Minnesota
+Loan and Lease Allowance / Noncurrent Loans,3.07,3.02,2.29,3.08,1.98,Asset Quality,mn,Minnesota
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.02,0.02,Asset Quality,mn,Minnesota
+Return on Assets,1.31,1.32,1.22,1.15,1.22,Earnings,mn,Minnesota
+Net Interest Margin,3.43,3.48,3.89,3.73,3.97,Earnings,mn,Minnesota
+Yield on Earning Assets,3.79,3.83,4.57,4.33,4.76,Earnings,mn,Minnesota
+Cost of Funding Earning Assets,0.33,0.35,0.61,0.53,0.72,Earnings,mn,Minnesota
+Provisions to Avg. Assets,0.00,0.00,0.13,0.13,0.06,Earnings,mn,Minnesota
+Overhead to Avg. Assets,2.35,2.34,2.64,2.57,2.80,Earnings,mn,Minnesota
+Net Loans to Assets,59.00,59.65,67.68,62.51,68.80,Liquidity,mn,Minnesota
+Long-term Assets to Assets,23.68,21.38,18.30,19.19,17.56,Liquidity,mn,Minnesota
+Past-Due and Nonaccrual Loans / Total Loans,0.74,0.84,0.88,0.91,1.13,Asset Quality,mo,Missouri
+Noncurrent Loans / Total Loans,0.37,0.40,0.47,0.40,0.54,Asset Quality,mo,Missouri
+Loan and Lease Allowance / Total Loans,1.35,1.35,1.23,1.34,1.21,Asset Quality,mo,Missouri
+Loan and Lease Allowance / Noncurrent Loans,2.88,2.77,2.25,2.55,1.95,Asset Quality,mo,Missouri
+Net Loan Losses / Total Loans,0.00,0.00,0.02,0.03,0.05,Asset Quality,mo,Missouri
+Return on Assets,1.34,1.26,1.18,1.20,1.17,Earnings,mo,Missouri
+Net Interest Margin,3.45,3.37,3.69,3.62,3.81,Earnings,mo,Missouri
+Yield on Earning Assets,3.88,3.86,4.48,4.29,4.75,Earnings,mo,Missouri
+Cost of Funding Earning Assets,0.37,0.38,0.69,0.60,0.82,Earnings,mo,Missouri
+Provisions to Avg. Assets,0.04,0.04,0.11,0.13,0.08,Earnings,mo,Missouri
+Overhead to Avg. Assets,2.37,2.36,2.60,2.59,2.75,Earnings,mo,Missouri
+Net Loans to Assets,60.93,62.60,68.81,65.00,70.63,Liquidity,mo,Missouri
+Long-term Assets to Assets,24.20,21.95,18.02,20.56,18.79,Liquidity,mo,Missouri
+Past-Due and Nonaccrual Loans / Total Loans,0.97,1.17,1.52,1.23,2.03,Asset Quality,mt,Montana
+Noncurrent Loans / Total Loans,0.61,0.71,0.73,0.70,0.93,Asset Quality,mt,Montana
+Loan and Lease Allowance / Total Loans,1.63,1.64,1.52,1.65,1.53,Asset Quality,mt,Montana
+Loan and Lease Allowance / Noncurrent Loans,2.83,2.14,1.60,2.53,1.54,Asset Quality,mt,Montana
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.01,0.04,Asset Quality,mt,Montana
+Return on Assets,1.35,1.39,1.15,1.24,1.24,Earnings,mt,Montana
+Net Interest Margin,3.53,3.63,4.16,4.04,4.38,Earnings,mt,Montana
+Yield on Earning Assets,3.69,3.78,4.55,4.27,4.91,Earnings,mt,Montana
+Cost of Funding Earning Assets,0.19,0.21,0.41,0.34,0.55,Earnings,mt,Montana
+Provisions to Avg. Assets,0.00,0.00,0.17,0.15,0.13,Earnings,mt,Montana
+Overhead to Avg. Assets,2.20,2.24,2.81,2.62,2.82,Earnings,mt,Montana
+Net Loans to Assets,55.51,57.09,63.60,57.73,64.52,Liquidity,mt,Montana
+Long-term Assets to Assets,29.31,27.89,19.67,27.42,22.05,Liquidity,mt,Montana
+Past-Due and Nonaccrual Loans / Total Loans,0.70,0.91,1.14,0.63,0.96,Asset Quality,nd,North Dakota
+Noncurrent Loans / Total Loans,0.29,0.27,0.35,0.25,0.34,Asset Quality,nd,North Dakota
+Loan and Lease Allowance / Total Loans,1.33,1.42,1.29,1.36,1.34,Asset Quality,nd,North Dakota
+Loan and Lease Allowance / Noncurrent Loans,2.23,2.52,2.31,2.98,2.24,Asset Quality,nd,North Dakota
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.02,0.04,Asset Quality,nd,North Dakota
+Return on Assets,1.27,1.22,1.26,1.15,1.41,Earnings,nd,North Dakota
+Net Interest Margin,3.38,3.34,3.75,3.59,4.00,Earnings,nd,North Dakota
+Yield on Earning Assets,3.81,3.75,4.42,4.19,4.74,Earnings,nd,North Dakota
+Cost of Funding Earning Assets,0.36,0.37,0.66,0.56,0.74,Earnings,nd,North Dakota
+Provisions to Avg. Assets,0.00,0.00,0.06,0.07,0.11,Earnings,nd,North Dakota
+Overhead to Avg. Assets,2.24,2.19,2.49,2.51,2.67,Earnings,nd,North Dakota
+Net Loans to Assets,58.66,54.82,68.40,61.17,68.16,Liquidity,nd,North Dakota
+Long-term Assets to Assets,23.45,22.81,17.39,20.45,16.95,Liquidity,nd,North Dakota
+Past-Due and Nonaccrual Loans / Total Loans,0.66,1.02,0.89,1.01,0.89,Asset Quality,nj,New Jersey
+Noncurrent Loans / Total Loans,0.54,0.66,0.65,0.63,0.53,Asset Quality,nj,New Jersey
+Loan and Lease Allowance / Total Loans,1.09,1.11,1.00,1.10,0.97,Asset Quality,nj,New Jersey
+Loan and Lease Allowance / Noncurrent Loans,1.91,1.78,1.49,1.83,1.56,Asset Quality,nj,New Jersey
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.01,0.02,Asset Quality,nj,New Jersey
+Return on Assets,0.69,0.60,0.45,0.53,0.68,Earnings,nj,New Jersey
+Net Interest Margin,2.90,2.91,3.03,2.90,3.15,Earnings,nj,New Jersey
+Yield on Earning Assets,3.27,3.30,3.81,3.62,4.08,Earnings,nj,New Jersey
+Cost of Funding Earning Assets,0.39,0.42,0.95,0.78,1.17,Earnings,nj,New Jersey
+Provisions to Avg. Assets,0.00,0.00,0.17,0.16,0.04,Earnings,nj,New Jersey
+Overhead to Avg. Assets,2.08,2.05,2.24,2.19,2.32,Earnings,nj,New Jersey
+Net Loans to Assets,69.15,71.78,74.33,73.44,75.02,Liquidity,nj,New Jersey
+Long-term Assets to Assets,46.24,45.79,43.76,45.14,48.20,Liquidity,nj,New Jersey
+Past-Due and Nonaccrual Loans / Total Loans,0.33,0.33,0.29,0.31,0.31,Asset Quality,nv,Nevada
+Noncurrent Loans / Total Loans,0.13,0.29,0.14,0.07,0.09,Asset Quality,nv,Nevada
+Loan and Lease Allowance / Total Loans,1.41,1.38,1.12,1.32,1.23,Asset Quality,nv,Nevada
+Loan and Lease Allowance / Noncurrent Loans,4.34,3.43,3.94,3.17,2.56,Asset Quality,nv,Nevada
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.01,Asset Quality,nv,Nevada
+Return on Assets,1.20,1.06,1.34,1.36,1.88,Earnings,nv,Nevada
+Net Interest Margin,2.97,2.83,3.39,3.34,3.57,Earnings,nv,Nevada
+Yield on Earning Assets,3.21,3.02,3.89,3.79,4.19,Earnings,nv,Nevada
+Cost of Funding Earning Assets,0.19,0.19,0.44,0.39,0.39,Earnings,nv,Nevada
+Provisions to Avg. Assets,0.00,0.00,0.21,0.15,0.00,Earnings,nv,Nevada
+Overhead to Avg. Assets,2.26,2.11,2.37,2.46,2.51,Earnings,nv,Nevada
+Net Loans to Assets,52.91,57.65,59.69,53.99,55.36,Liquidity,nv,Nevada
+Long-term Assets to Assets,20.29,22.00,25.13,22.32,21.81,Liquidity,nv,Nevada
+Past-Due and Nonaccrual Loans / Total Loans,1.33,1.51,1.46,1.59,1.80,Asset Quality,ok,Oklahoma
+Noncurrent Loans / Total Loans,0.61,0.71,0.70,0.79,0.75,Asset Quality,ok,Oklahoma
+Loan and Lease Allowance / Total Loans,1.38,1.38,1.27,1.37,1.26,Asset Quality,ok,Oklahoma
+Loan and Lease Allowance / Noncurrent Loans,2.04,1.47,1.49,1.48,1.42,Asset Quality,ok,Oklahoma
+Net Loan Losses / Total Loans,0.00,0.00,0.05,0.11,0.13,Asset Quality,ok,Oklahoma
+Return on Assets,1.35,1.32,1.23,1.13,1.19,Earnings,ok,Oklahoma
+Net Interest Margin,3.74,3.71,3.97,3.86,4.08,Earnings,ok,Oklahoma
+Yield on Earning Assets,4.13,4.18,4.74,4.49,5.08,Earnings,ok,Oklahoma
+Cost of Funding Earning Assets,0.31,0.33,0.68,0.57,0.79,Earnings,ok,Oklahoma
+Provisions to Avg. Assets,0.07,0.08,0.19,0.19,0.12,Earnings,ok,Oklahoma
+Overhead to Avg. Assets,2.64,2.61,2.91,2.87,3.10,Earnings,ok,Oklahoma
+Net Loans to Assets,58.29,59.05,63.99,61.48,67.52,Liquidity,ok,Oklahoma
+Long-term Assets to Assets,26.87,25.07,23.16,24.72,23.35,Liquidity,ok,Oklahoma
+Past-Due and Nonaccrual Loans / Total Loans,0.31,0.46,0.33,0.56,0.52,Asset Quality,or,Oregon
+Noncurrent Loans / Total Loans,0.28,0.31,0.24,0.31,0.34,Asset Quality,or,Oregon
+Loan and Lease Allowance / Total Loans,1.32,1.38,1.21,1.37,1.19,Asset Quality,or,Oregon
+Loan and Lease Allowance / Noncurrent Loans,4.64,3.47,4.77,3.27,3.30,Asset Quality,or,Oregon
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.00,Asset Quality,or,Oregon
+Return on Assets,1.27,1.24,0.79,0.85,1.17,Earnings,or,Oregon
+Net Interest Margin,3.38,3.58,3.98,3.77,4.19,Earnings,or,Oregon
+Yield on Earning Assets,3.54,3.81,4.29,4.18,4.70,Earnings,or,Oregon
+Cost of Funding Earning Assets,0.13,0.14,0.31,0.26,0.51,Earnings,or,Oregon
+Provisions to Avg. Assets,0.00,0.00,0.38,0.26,0.08,Earnings,or,Oregon
+Overhead to Avg. Assets,2.46,2.45,3.06,2.79,3.12,Earnings,or,Oregon
+Net Loans to Assets,58.05,61.88,74.13,67.03,72.55,Liquidity,or,Oregon
+Long-term Assets to Assets,41.44,36.11,36.99,38.02,42.39,Liquidity,or,Oregon
+Past-Due and Nonaccrual Loans / Total Loans,0.84,0.85,0.90,1.00,1.18,Asset Quality,pa,Pennsylvania
+Noncurrent Loans / Total Loans,0.53,0.54,0.56,0.60,0.56,Asset Quality,pa,Pennsylvania
+Loan and Lease Allowance / Total Loans,1.10,1.09,1.02,1.10,0.94,Asset Quality,pa,Pennsylvania
+Loan and Lease Allowance / Noncurrent Loans,1.87,1.74,1.58,1.84,1.60,Asset Quality,pa,Pennsylvania
+Net Loan Losses / Total Loans,0.00,0.00,0.01,0.03,0.04,Asset Quality,pa,Pennsylvania
+Return on Assets,0.90,0.88,0.68,0.78,0.88,Earnings,pa,Pennsylvania
+Net Interest Margin,2.97,3.00,3.20,3.13,3.32,Earnings,pa,Pennsylvania
+Yield on Earning Assets,3.43,3.50,3.97,3.79,4.32,Earnings,pa,Pennsylvania
+Cost of Funding Earning Assets,0.41,0.44,0.86,0.70,1.03,Earnings,pa,Pennsylvania
+Provisions to Avg. Assets,0.04,0.05,0.16,0.16,0.07,Earnings,pa,Pennsylvania
+Overhead to Avg. Assets,2.23,2.26,2.43,2.43,2.56,Earnings,pa,Pennsylvania
+Net Loans to Assets,65.46,66.91,71.22,68.05,73.33,Liquidity,pa,Pennsylvania
+Long-term Assets to Assets,42.33,40.01,37.63,39.32,42.12,Liquidity,pa,Pennsylvania
+Past-Due and Nonaccrual Loans / Total Loans,4.71,5.48,4.83,5.87,5.53,Asset Quality,pr,Puerto Rico - Virgin Islands
+Noncurrent Loans / Total Loans,3.43,3.82,3.85,4.05,4.39,Asset Quality,pr,Puerto Rico - Virgin Islands
+Loan and Lease Allowance / Total Loans,2.89,3.04,3.34,3.14,1.72,Asset Quality,pr,Puerto Rico - Virgin Islands
+Loan and Lease Allowance / Noncurrent Loans,0.86,0.83,0.62,0.84,0.40,Asset Quality,pr,Puerto Rico - Virgin Islands
+Net Loan Losses / Total Loans,0.22,0.40,0.85,0.64,1.06,Asset Quality,pr,Puerto Rico - Virgin Islands
+Return on Assets,1.40,1.29,0.54,0.90,1.40,Earnings,pr,Puerto Rico - Virgin Islands
+Net Interest Margin,3.68,3.70,3.74,3.99,4.36,Earnings,pr,Puerto Rico - Virgin Islands
+Yield on Earning Assets,3.87,3.92,4.05,4.35,4.95,Earnings,pr,Puerto Rico - Virgin Islands
+Cost of Funding Earning Assets,0.25,0.27,0.59,0.42,0.73,Earnings,pr,Puerto Rico - Virgin Islands
+Provisions to Avg. Assets,-0.14,-0.04,0.76,0.69,0.32,Earnings,pr,Puerto Rico - Virgin Islands
+Overhead to Avg. Assets,2.41,2.51,2.60,2.58,2.98,Earnings,pr,Puerto Rico - Virgin Islands
+Net Loans to Assets,44.44,47.54,43.23,52.67,46.91,Liquidity,pr,Puerto Rico - Virgin Islands
+Long-term Assets to Assets,40.97,38.29,34.24,38.03,42.07,Liquidity,pr,Puerto Rico - Virgin Islands
+Past-Due and Nonaccrual Loans / Total Loans,1.22,1.21,1.46,1.83,1.06,Asset Quality,ri,Rhode Island
+Noncurrent Loans / Total Loans,0.87,1.14,0.98,1.15,0.73,Asset Quality,ri,Rhode Island
+Loan and Lease Allowance / Total Loans,1.45,1.45,1.22,1.55,0.97,Asset Quality,ri,Rhode Island
+Loan and Lease Allowance / Noncurrent Loans,1.76,1.29,1.47,1.29,1.41,Asset Quality,ri,Rhode Island
+Net Loan Losses / Total Loans,0.09,0.12,0.15,0.27,0.23,Asset Quality,ri,Rhode Island
+Return on Assets,1.33,1.31,0.47,0.89,1.24,Earnings,ri,Rhode Island
+Net Interest Margin,3.07,3.01,3.23,2.97,3.59,Earnings,ri,Rhode Island
+Yield on Earning Assets,3.41,3.36,4.01,3.57,4.61,Earnings,ri,Rhode Island
+Cost of Funding Earning Assets,0.49,0.52,0.88,0.76,1.10,Earnings,ri,Rhode Island
+Provisions to Avg. Assets,0.00,0.00,0.69,0.45,0.24,Earnings,ri,Rhode Island
+Overhead to Avg. Assets,2.34,2.41,2.67,2.32,2.72,Earnings,ri,Rhode Island
+Net Loans to Assets,69.98,73.97,73.57,70.88,74.99,Liquidity,ri,Rhode Island
+Long-term Assets to Assets,34.44,33.27,28.05,32.50,29.42,Liquidity,ri,Rhode Island
+Past-Due and Nonaccrual Loans / Total Loans,0.86,0.91,1.00,0.96,1.24,Asset Quality,sc,South Carolina
+Noncurrent Loans / Total Loans,0.33,0.51,0.60,0.56,0.60,Asset Quality,sc,South Carolina
+Loan and Lease Allowance / Total Loans,1.20,1.20,1.13,1.20,1.15,Asset Quality,sc,South Carolina
+Loan and Lease Allowance / Noncurrent Loans,3.12,2.88,2.09,2.27,2.01,Asset Quality,sc,South Carolina
+Net Loan Losses / Total Loans,0.00,0.00,0.01,0.01,0.03,Asset Quality,sc,South Carolina
+Return on Assets,0.88,0.85,0.74,0.84,0.94,Earnings,sc,South Carolina
+Net Interest Margin,3.17,3.17,3.35,3.29,3.68,Earnings,sc,South Carolina
+Yield on Earning Assets,3.40,3.50,3.93,3.79,4.38,Earnings,sc,South Carolina
+Cost of Funding Earning Assets,0.24,0.25,0.60,0.49,0.74,Earnings,sc,South Carolina
+Provisions to Avg. Assets,0.01,0.00,0.06,0.09,0.04,Earnings,sc,South Carolina
+Overhead to Avg. Assets,2.56,2.58,2.86,2.77,2.98,Earnings,sc,South Carolina
+Net Loans to Assets,55.28,58.36,63.69,59.98,65.93,Liquidity,sc,South Carolina
+Long-term Assets to Assets,41.55,37.52,33.86,36.52,33.71,Liquidity,sc,South Carolina
+Past-Due and Nonaccrual Loans / Total Loans,0.83,0.96,1.05,1.17,1.23,Asset Quality,tn,Tennessee
+Noncurrent Loans / Total Loans,0.38,0.38,0.55,0.47,0.58,Asset Quality,tn,Tennessee
+Loan and Lease Allowance / Total Loans,1.27,1.27,1.17,1.25,1.15,Asset Quality,tn,Tennessee
+Loan and Lease Allowance / Noncurrent Loans,3.32,2.84,2.17,2.40,1.76,Asset Quality,tn,Tennessee
+Net Loan Losses / Total Loans,0.00,0.00,0.03,0.04,0.05,Asset Quality,tn,Tennessee
+Return on Assets,1.13,1.15,0.94,0.94,1.09,Earnings,tn,Tennessee
+Net Interest Margin,3.46,3.40,3.69,3.57,3.88,Earnings,tn,Tennessee
+Yield on Earning Assets,3.89,3.93,4.54,4.35,4.89,Earnings,tn,Tennessee
+Cost of Funding Earning Assets,0.38,0.42,0.80,0.69,1.00,Earnings,tn,Tennessee
+Provisions to Avg. Assets,0.05,0.05,0.13,0.15,0.06,Earnings,tn,Tennessee
+Overhead to Avg. Assets,2.55,2.58,2.83,2.75,2.97,Earnings,tn,Tennessee
+Net Loans to Assets,63.41,63.32,68.74,66.19,71.08,Liquidity,tn,Tennessee
+Long-term Assets to Assets,32.00,29.21,26.84,29.49,27.34,Liquidity,tn,Tennessee
+Past-Due and Nonaccrual Loans / Total Loans,0.77,0.89,1.35,0.95,1.46,Asset Quality,ut,Utah
+Noncurrent Loans / Total Loans,0.34,0.41,0.53,0.46,0.69,Asset Quality,ut,Utah
+Loan and Lease Allowance / Total Loans,1.76,1.60,1.86,1.79,1.76,Asset Quality,ut,Utah
+Loan and Lease Allowance / Noncurrent Loans,4.87,3.55,2.91,3.61,2.92,Asset Quality,ut,Utah
+Net Loan Losses / Total Loans,0.05,0.07,0.66,0.20,0.59,Asset Quality,ut,Utah
+Return on Assets,2.19,1.93,1.18,1.54,2.03,Earnings,ut,Utah
+Net Interest Margin,4.42,4.15,5.11,4.48,5.88,Earnings,ut,Utah
+Yield on Earning Assets,4.92,4.88,5.45,5.17,6.88,Earnings,ut,Utah
+Cost of Funding Earning Assets,0.42,0.48,0.94,0.72,1.55,Earnings,ut,Utah
+Provisions to Avg. Assets,0.10,0.06,1.00,0.43,0.30,Earnings,ut,Utah
+Overhead to Avg. Assets,2.53,2.56,2.95,2.69,3.14,Earnings,ut,Utah
+Net Loans to Assets,69.77,66.31,70.04,68.83,75.48,Liquidity,ut,Utah
+Long-term Assets to Assets,14.11,13.58,8.37,10.54,10.87,Liquidity,ut,Utah
+Past-Due and Nonaccrual Loans / Total Loans,0.65,0.74,1.00,1.01,1.26,Asset Quality,va,Virginia
+Noncurrent Loans / Total Loans,0.37,0.44,0.56,0.54,0.52,Asset Quality,va,Virginia
+Loan and Lease Allowance / Total Loans,1.14,1.18,1.09,1.19,0.96,Asset Quality,va,Virginia
+Loan and Lease Allowance / Noncurrent Loans,2.48,2.25,1.58,2.14,1.61,Asset Quality,va,Virginia
+Net Loan Losses / Total Loans,0.01,0.00,0.06,0.05,0.10,Asset Quality,va,Virginia
+Return on Assets,0.98,0.95,0.79,0.91,0.98,Earnings,va,Virginia
+Net Interest Margin,3.35,3.40,3.48,3.44,3.83,Earnings,va,Virginia
+Yield on Earning Assets,3.79,3.87,4.32,4.21,4.66,Earnings,va,Virginia
+Cost of Funding Earning Assets,0.32,0.34,0.66,0.56,0.81,Earnings,va,Virginia
+Provisions to Avg. Assets,0.00,0.01,0.27,0.24,0.08,Earnings,va,Virginia
+Overhead to Avg. Assets,2.69,2.55,2.91,2.88,3.08,Earnings,va,Virginia
+Net Loans to Assets,64.33,67.00,71.98,70.16,72.73,Liquidity,va,Virginia
+Long-term Assets to Assets,31.91,29.78,27.08,28.18,28.55,Liquidity,va,Virginia
+Past-Due and Nonaccrual Loans / Total Loans,0.84,1.01,0.77,0.86,1.42,Asset Quality,vt,Vermont
+Noncurrent Loans / Total Loans,0.59,0.49,0.51,0.39,0.62,Asset Quality,vt,Vermont
+Loan and Lease Allowance / Total Loans,1.15,1.24,1.10,1.22,1.03,Asset Quality,vt,Vermont
+Loan and Lease Allowance / Noncurrent Loans,2.13,1.77,2.14,2.83,1.23,Asset Quality,vt,Vermont
+Net Loan Losses / Total Loans,-0.01,-0.01,0.04,0.02,0.06,Asset Quality,vt,Vermont
+Return on Assets,0.93,0.92,0.79,0.80,0.95,Earnings,vt,Vermont
+Net Interest Margin,2.79,2.82,3.39,3.24,3.77,Earnings,vt,Vermont
+Yield on Earning Assets,3.15,3.21,4.00,3.79,4.44,Earnings,vt,Vermont
+Cost of Funding Earning Assets,0.30,0.32,0.69,0.55,0.74,Earnings,vt,Vermont
+Provisions to Avg. Assets,0.01,0.03,0.18,0.22,0.09,Earnings,vt,Vermont
+Overhead to Avg. Assets,2.72,2.70,3.14,3.10,3.28,Earnings,vt,Vermont
+Net Loans to Assets,68.44,67.48,73.55,68.73,78.34,Liquidity,vt,Vermont
+Long-term Assets to Assets,53.29,48.94,48.29,47.41,52.36,Liquidity,vt,Vermont
+Past-Due and Nonaccrual Loans / Total Loans,0.40,0.45,0.60,0.47,0.49,Asset Quality,wa,Washington
+Noncurrent Loans / Total Loans,0.22,0.27,0.32,0.31,0.29,Asset Quality,wa,Washington
+Loan and Lease Allowance / Total Loans,1.29,1.35,1.25,1.36,1.13,Asset Quality,wa,Washington
+Loan and Lease Allowance / Noncurrent Loans,4.99,4.16,3.13,4.07,3.89,Asset Quality,wa,Washington
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.00,Asset Quality,wa,Washington
+Return on Assets,1.11,1.18,0.82,0.96,1.27,Earnings,wa,Washington
+Net Interest Margin,3.37,3.40,3.76,3.64,4.10,Earnings,wa,Washington
+Yield on Earning Assets,3.61,3.67,4.37,4.10,4.69,Earnings,wa,Washington
+Cost of Funding Earning Assets,0.21,0.23,0.49,0.39,0.58,Earnings,wa,Washington
+Provisions to Avg. Assets,0.00,0.00,0.22,0.17,0.03,Earnings,wa,Washington
+Overhead to Avg. Assets,2.60,2.60,2.63,2.64,2.90,Earnings,wa,Washington
+Net Loans to Assets,66.55,65.86,73.69,69.22,72.51,Liquidity,wa,Washington
+Long-term Assets to Assets,33.67,31.82,27.78,31.09,32.17,Liquidity,wa,Washington
+Past-Due and Nonaccrual Loans / Total Loans,0.57,0.75,0.99,0.87,1.01,Asset Quality,wi,Wisconsin
+Noncurrent Loans / Total Loans,0.37,0.42,0.57,0.50,0.55,Asset Quality,wi,Wisconsin
+Loan and Lease Allowance / Total Loans,1.35,1.35,1.24,1.32,1.23,Asset Quality,wi,Wisconsin
+Loan and Lease Allowance / Noncurrent Loans,2.94,2.65,1.88,2.55,1.75,Asset Quality,wi,Wisconsin
+Net Loan Losses / Total Loans,0.00,0.00,0.00,0.00,0.01,Asset Quality,wi,Wisconsin
+Return on Assets,1.32,1.35,1.14,1.23,1.11,Earnings,wi,Wisconsin
+Net Interest Margin,3.34,3.28,3.56,3.50,3.67,Earnings,wi,Wisconsin
+Yield on Earning Assets,3.70,3.70,4.26,4.11,4.56,Earnings,wi,Wisconsin
+Cost of Funding Earning Assets,0.36,0.39,0.73,0.62,0.89,Earnings,wi,Wisconsin
+Provisions to Avg. Assets,0.03,0.03,0.12,0.16,0.06,Earnings,wi,Wisconsin
+Overhead to Avg. Assets,2.35,2.33,2.58,2.57,2.70,Earnings,wi,Wisconsin
+Net Loans to Assets,62.67,64.00,68.54,64.30,70.87,Liquidity,wi,Wisconsin
+Long-term Assets to Assets,24.97,22.44,18.44,21.16,18.42,Liquidity,wi,Wisconsin
+Past-Due and Nonaccrual Loans / Total Loans,1.23,1.29,1.43,1.55,2.23,Asset Quality,wv,West Virginia
+Noncurrent Loans / Total Loans,0.59,0.55,0.62,0.60,0.62,Asset Quality,wv,West Virginia
+Loan and Lease Allowance / Total Loans,1.19,1.20,1.13,1.20,1.10,Asset Quality,wv,West Virginia
+Loan and Lease Allowance / Noncurrent Loans,1.99,2.10,1.92,1.97,1.30,Asset Quality,wv,West Virginia
+Net Loan Losses / Total Loans,0.02,0.02,0.05,0.06,0.08,Asset Quality,wv,West Virginia
+Return on Assets,0.94,0.93,0.80,0.82,0.96,Earnings,wv,West Virginia
+Net Interest Margin,3.42,3.42,3.77,3.65,3.89,Earnings,wv,West Virginia
+Yield on Earning Assets,3.78,3.87,4.52,4.31,4.82,Earnings,wv,West Virginia
+Cost of Funding Earning Assets,0.32,0.33,0.62,0.54,0.76,Earnings,wv,West Virginia
+Provisions to Avg. Assets,0.04,0.07,0.16,0.15,0.08,Earnings,wv,West Virginia
+Overhead to Avg. Assets,2.57,2.57,2.78,2.84,3.08,Earnings,wv,West Virginia
+Net Loans to Assets,65.39,66.34,69.69,68.22,72.14,Liquidity,wv,West Virginia
+Long-term Assets to Assets,52.19,49.00,44.44,47.12,41.92,Liquidity,wv,West Virginia

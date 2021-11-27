@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6
+2,"Employment Growth Rates (% change from year ago, unless noted)",,Q2-21,Q1-21,Q2-20,2020,2019
+3,Total Nonfarm (share of trailing four quarter employment in parentheses),,6.7%,-2.9%,-9.0%,-4.3%,1.5%
+4,Manufacturing (13%),,9.8%,-1.5%,-9.5%,-4.1%,0.7%
+5,Other (non-manufacturing) Goods-Producing (5%),,-1.6%,-1.6%,-2.9%,-1.1%,4.7%
+6,Private Service-Providing (63%),,8.3%,-3.5%,-10.9%,-5.3%,1.4%
+7,Government (19%),,2.0%,-2.2%,-4.0%,-1.9%,1.3%
+8,"Unemployment Rate (% of labor force, seasonally adjusted)",,3.4%,4.0%,9.6%,6.0%,3.0%
+9,"Other Indicators (% change of 4-qtr moving total, unless noted)",,Q2-21,Q1-21,Q2-20,2020,2019
+10,Single-Family Home Permits,,23.7%,16.9%,12.7%,18.8%,7.9%
+11,Multifamily Building Permits,,-4.1%,42.1%,101.4%,21.7%,41.0%
+12,Home Price Index (change from year ago),,10.6%,7.3%,5.3%,5.9%,5.0%
+13,Nonbusiness Bankruptcy Filings per 1000 people (quarterly annualized level),,2.89,3.15,3.30,3.69,5.41
+14,BANKING TRENDS,,,,,,
+15,General Information,,Q2-21,Q1-21,Q2-20,2020,2019
+16,Institutions (#),,103,107,110,107,110
+17,Total Assets (in millions),,"305,863","309,320","293,782","300,540","260,987"
+18,New Institutions (# < 3 years),,0,1,1,1,1
+19,Subchapter S Institutions (#),,35,35,36,35,35
+20,Asset Quality,,Q2-21,Q1-21,Q2-20,2020,2019
+21,Past-Due and Nonaccrual Loans / Total Loans (median %),,0.80,1.00,1.00,1.11,1.63
+22,Noncurrent Loans / Total Loans (median %),,0.43,0.44,0.49,0.48,0.66
+23,Loan and Lease Allowance / Total Loans (median %),,1.33,1.34,1.23,1.31,1.23
+24,Loan and Lease Allowance / Noncurrent Loans (median multiple),,2.94,2.92,2.17,2.27,1.80
+25,"Net Loan Losses / Total Loans (median %, year-to-date annualized)",,0.02,0.00,0.04,0.07,0.12
+26,"Capital / Earnings (year-to-date annualized, unless noted)",,Q2-21,Q1-21,Q2-20,2020,2019
+27,"Tier 1 Leverage (median %, end of period)",,10.08,10.23,10.61,10.33,11.38
+28,Return on Assets (median %),,1.03,0.97,0.98,0.93,1.07
+29,Pretax Return on Assets (median %),,1.24,1.16,1.14,1.15,1.27
+30,Net Interest Margin (median %),,3.28,3.21,3.70,3.56,3.86
+31,Yield on Earning Assets (median %),,3.69,3.65,4.37,4.18,4.71
+32,Cost of Funding Earning Assets (median %),,0.34,0.37,0.68,0.58,0.77
+33,Provisions to Avg. Assets (median %),,0.03,0.00,0.13,0.13,0.11
+34,Noninterest Income to Avg. Assets (median %),,0.59,0.58,0.58,0.57,0.65
+35,Overhead to Avg. Assets (median %),,2.45,2.47,2.76,2.69,2.92
+36,Liquidity/Sensitivity,,Q2-21,Q1-21,Q2-20,2020,2019
+37,Net Loans to Assets (median %),,50.27,50.60,57.94,53.96,60.67
+38,Noncore Funding to Assets (median %),,7.45,7.78,8.77,8.01,8.85
+39,"Long-term Assets to Assets (median %, call filers)",,34.00,32.95,28.57,30.72,28.99
+40,Brokered Deposits (number of institutions),,29,31,32,31,31
+41,Brokered Deposits to Assets (median % for those above),,2.74,2.60,3.00,2.68,2.51
+42,Loan Concentrations,,,,,,
+43,(median % of Tier 1 Capital plus the Reserve for Loan and Lease Losses),,Q2-21,Q1-21,Q2-20,2020,2019
+44,Commercial and Industrial,,80,84,101,81,65
+45,Commercial Real Estate,,187,177,176,184,172
+46,Construction & Development,,40,38,34,34,33
+47,Multifamily Residential Real Estate,,8,8,8,7,7
+48,Nonresidential Real Estate,,119,113,115,122,109
+49,Residential Real Estate,,121,123,127,130,132
+50,Consumer,,18,19,20,19,22
+51,Agriculture,,13,14,16,15,17
